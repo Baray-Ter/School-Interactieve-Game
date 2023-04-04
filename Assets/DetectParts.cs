@@ -18,7 +18,6 @@ public class DetectParts : MonoBehaviour
         if (Physics.Raycast(rayOrigin, out hitInfo))
         {
             Debug.Log(hitInfo.transform.name);
-
         }
     }
 }
