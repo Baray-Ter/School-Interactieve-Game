@@ -17,7 +17,11 @@ public class CameraZoomOptions : MonoBehaviour
 
     private Vector2 _scroll;
     
-    [Range(24f, 60f)] public float zoomValue;
+    [Tooltip("How far camera gets zoomed out")] public float maxZoomOut = 60;
+
+    [Tooltip("How far camera gets zoomed in")] public float minZoomIn = 24;
+
+    [Tooltip("How fast camera gets zoomed in or out")] public float zoomSpeed = 1;
 
     private void Start()
     {
@@ -28,22 +32,22 @@ public class CameraZoomOptions : MonoBehaviour
 
         if (context.started)
         {
-            if (context.ReadValue<float>() > 0 && _mainCamera.fieldOfView < 64)
+            if (context.ReadValue<float>() > 0 && _mainCamera.fieldOfView < maxZoomOut)
             {
                var fieldOfView = _mainCamera.fieldOfView;
         
-                fieldOfView += 1;
+                fieldOfView += zoomSpeed;
             
                 _mainCamera.fieldOfView = fieldOfView;
 
                 return; 
             }
 
-            if (context.ReadValue<float>() < 0 && _mainCamera.fieldOfView > 20)
+            if (context.ReadValue<float>() < 0 && _mainCamera.fieldOfView > minZoomIn)
             {
                var fieldOfView = _mainCamera.fieldOfView;
         
-                fieldOfView -= 1;
+                fieldOfView -= zoomSpeed;
             
                 _mainCamera.fieldOfView = fieldOfView;
 
