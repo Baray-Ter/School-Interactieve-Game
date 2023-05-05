@@ -6,7 +6,7 @@
             "id": "7e7c4e96-d15d-4f91-960f-ee9e6253d138",
             "actions": [
                 {
-                    "name": "New action",
+                    "name": "RightClick",
                     "type": "Button",
                     "id": "d3130192-acc7-428b-b2b1-034c97dd8521",
                     "expectedControlType": "Button",
@@ -28,11 +28,11 @@
                 {
                     "name": "",
                     "id": "b046d54b-91d0-4c30-bee2-f4710b460415",
-                    "path": "<Mouse>/leftButton",
+                    "path": "<Mouse>/rightButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "RightClick",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
