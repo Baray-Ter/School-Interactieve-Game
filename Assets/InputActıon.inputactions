@@ -15,13 +15,13 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "MouseScroll",
-                    "type": "Value",
-                    "id": "62698f75-8583-45ec-b4ac-9e754b0784ab",
-                    "expectedControlType": "Axis",
+                    "name": "LeftClick",
+                    "type": "Button",
+                    "id": "a6462b23-34e3-4df0-91c2-849b7d089dc9",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": true
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -38,12 +38,12 @@
                 },
                 {
                     "name": "",
-                    "id": "2fd13a6d-c5f9-4375-83f9-78dcb4d76f20",
-                    "path": "<Mouse>/scroll/y",
+                    "id": "e630f51e-f22f-4ec9-95e1-0be5be454abe",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "MouseScroll",
+                    "action": "LeftClick",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

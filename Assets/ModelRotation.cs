@@ -7,8 +7,8 @@ public class ModelRotation : MonoBehaviour
 {
     public float rotationSpeed = 10f;
 
-    private void FixedUpdate() {
-        
+    private void OnMouseDrag() {
+
         if (Mouse.current.leftButton.isPressed)
         {
             float rotateX = Input.GetAxis("Mouse X") * rotationSpeed * Mathf.Deg2Rad;
