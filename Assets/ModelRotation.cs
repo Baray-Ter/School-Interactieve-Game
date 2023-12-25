@@ -7,7 +7,38 @@ public class ModelRotation : MonoBehaviour
 {
     public float rotationSpeed = 10f;
 
-    private void OnMouseDrag() {
+    public Rigidbody rb;
+    public float strength = 10;
+    public float rotX;
+    public float rotY;
+    bool rotate;
+
+    private Vector3 target;
+
+    private void OnCollisionEnter(Collision collision)
+    {
+
+    }
+
+    private void OnMouseDrag()
+    {
+        if (Input.GetMouseButton(0))
+        {
+            rotate = true;
+            rotX = Input.GetAxis("Mouse X") * strength;
+            rotY = Input.GetAxis("Mouse Y") * strength;
+        }
+        else
+        {
+            rotate = false;
+        }
+
+        if (rotate)
+        {
+            rb.AddTorque(rotY, -rotX, 0);
+        }
+    }
+    }
 
         if (Mouse.current.leftButton.isPressed)
         {
