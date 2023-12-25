@@ -37,8 +37,6 @@ public class ModelRotation : MonoBehaviour
         {
             rb.AddTorque(rotY, -rotX, 0);
         }
-    }
-    }
 
         if (Mouse.current.leftButton.isPressed)
         {
