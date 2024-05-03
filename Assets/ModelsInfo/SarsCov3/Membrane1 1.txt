@@ -1,6 +1,20 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Nulla dapibus ante ac risus sollicitudin, ut hendrerit leo facilisis.
-Ut cursus bibendum ligula.
-Nam eu auctor nibh. Nunc odio magna, mattis porta libero a, rhoncus consequat metus.
-Quisque sodales mi nec elit interdum, interdum cursus tellus dictum. 
-Aenean tortor felis, condimentum non sapien vel, ultricies posuere enim.
+﻿Bazı viruslarda bulunan viral nükleokapsidi çevreleyen viral
+membran yapısına zarf denir. Bu zarf lipid, protein ve
+karbonhidrattan oluşan bir yapıdır.
+Virüslar hücrelerden tomurcuklanarak olgunlaştıkları sırada,
+hücreye ait membranlara sarılarak dışarı salınırlar. Bu nedenle
+viral membranın yapısı hücre membranlarının yapısına büyük
+benzerlik gösterir.
+Bazı viruslar (kanser virusu, konjuktuvit virusları vb.) zarfsız, bazı
+viruslar (grip vb.) ise zarflı viruslardır.
+Zarfın yüzeyinde lokalize olan ve virüslerce kodlanan peplomerler (F-
+proteini gibi) protein ve glikoprotein yapısında oldukları için iyi bir
+antijeniteye sahiptirler.
+ Kapsidler ve zarflar virüslerı koruduğu gibi, onların hücreye
+girişlerini ve infeksiyon oluşturmalarını da sağlar.
+ Ayrıca kapsidler ve zarflar virusların morfolojik özelliklerini
+belirlemede de fonksiyoneldir.
+ Kapsid ve zarflar vücutta spesifik bağışıklığı uyararak özgül
+antikor sentezini sağlarlar. Virüslerın kimyasal yapılarında, viral
+proteinler, lipidler, karbonhidratlar ve fosfatlar da
+bulunmaktadır.

@@ -1,0 +1,9 @@
+pCD1, Yersinia pestis'in (kara veba bakterisi) bir plazmididir. Bu plazmid, bakterinin virülansını ve enfeksiyöz özelliklerini etkileyen bir dizi geni içerir. Yersinia pestis'in enfeksiyöz özelliklerini düzenleyen bir dizi virülans faktörü, pCD1 plazmidinde bulunur.
+
+pCD1 plazmidinin içinde bulunan en önemli virülans faktörleri şunlardır:
+
+    Yop (Yersinia outer protein) proteinleri: Bu proteinler, bakterinin hücre içine girmesini, bağışıklık sisteminden kaçmasını ve enfeksiyon oluşturmasını sağlar. Yop proteinleri, bakterinin hücre içinde yaşamasına ve bağışıklık sistemini atlatmasına yardımcı olan bir dizi özel mekanizmayı etkinleştirir.
+
+    Lcr (low calcium response) virülans kaskadı: Bu kaskad, Yersinia pestis'in enfeksiyon oluşturmasına yardımcı olan bir dizi genin ifadesini düzenler. Lcr virülans kaskadı, bakterinin insan hücrelerine tutunmasını, hücre içine girmesini ve bağışıklık sisteminden kaçmasını sağlar.
+
+pCD1 plazmidinin varlığı, Yersinia pestis'in insanlarda ciddi hastalıklara neden olan virülansını etkileyen bir faktördür. Bu plazmid, bakterinin insan hücrelerine tutunmasını, enfeksiyon oluşturmasını ve bağışıklık sisteminden kaçmasını sağlayan bir dizi geni içerir. Bu nedenle, pCD1 plazmidinin varlığı kara vebanın insanlarda ciddi hastalıklara neden olmasında önemli bir rol oynar.

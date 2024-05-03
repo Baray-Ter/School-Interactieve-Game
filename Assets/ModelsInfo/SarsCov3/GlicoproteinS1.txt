@@ -1,5 +1,13 @@
-Glikoprotein, şeker ve aminoasitlerden oluşmuş organik moleküller için kullanılan genel tanım.
- Canlı organizmalarda bulunan pek çok molekül glikoprotein yapısındadır
-Ayrıca protein ve karbonhidratlar glikoproteinleri oluşturur.
-Endoplazmik Retikulum tarafından üretilse de son halini. Golgi Aygıtı'nda alır.
-Canlı organizmalarda birçok fonksiyonu tamamlayabilirler
+S glikoproteinindeki değişiklikler büyük ölçüde koronavirüslerin
+konakçı çeşitliliğinden ve doku tropizmindeki çeşitlilikten
+sorumludur. S glikoprotein, amino (S1) ve karboksi (S2) uçları
+yakınında farklı fonksiyonel alanlara sahip tip 1 membran
+glikoproteinidir. S1 alt birimi periferde yer alır ve reseptör
+bağlama fonksiyonları ile ilişkilidir, S2 alt birimi viral füzyona
+aracılık eden bir transmembran proteindir. Genel olarak, S
+glikoproteini duyarlı hücrelere viral bağlanmayı kolaylaştırır,
+hücre füzyonuna neden olur ve nötralize edici antikorları
+indükler.15,16 S1 ve S2 içeren 2 fonksiyonel alt birimlerinden,
+Birkaç antijenik alan içeren iki fonksiyonel alt birimden (S1 ve
+S2); S1, daha yüksek nötralize edici aktiviteye sahip monoklonal
+antikorları en etkin şekilde ortaya çıkarmaktadır.

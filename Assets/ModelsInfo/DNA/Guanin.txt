@@ -1,0 +1,6 @@
+Guanin (IUPAC ID: 2-amino-1H-purin-6(9H)-one) DNA ve RNA nükleik asitlerinde bulunan molekül. 
+Diğerleri sitozin, timin, adenin ve urasil olmak üzere beş asıl azotlu bazdan biridir. 
+C5H5N5O formullü bir pürin türevi olan guanin, Watson-Crick baz eşleşmesinde sitozin ile 3'lü hidrojen bağı kurar. 
+Çift bağlarla eşlenmiş bir pirimidin-imidiazol çember sistemi içerir ve doymamış bi-siklik hali düzlemseldir. Guanin nükleotitine guanozin denir.
+
+Timin genellikle DNA'da, Urasil ise yalnızca RNA'da görülmesine karşın guanin, adenin ve sitozin ile beraber hem RNA hem de DNA'da bulunur. Guaninin esas keto ve ender endo form olmak üzere iki formu bulunmaktadır. Sitozin'e 3 hidrojen bağı ile bağlanır. Bu bağlanmada sitozinde amino grubu hidrojen vericisi, C-2 karbonil ve N-3 amin hidrojen-bağ alıcısıdır. Guaninde ise c-6 grubu hidrojen alıcısı, N-1 grubu ve C-2'de bulunan amino grubu hidrojen vericisidir. Guanin ilk kez 1844 yılında, İspanyolcada guano olarak isimlendirilen deniz kuşlarının dışkılarından izole edilmiş ve gübre olarak kullanılmıştır. Bundan yaklaşık elli yıl sonra Fischer guaninin yapısını belirlemiş ve ürik asitin guanine çevrilebileceğini göstermiştir. 
