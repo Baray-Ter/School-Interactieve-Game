@@ -10,7 +10,7 @@ public class Before : MonoBehaviour
     {
         if (Scroll.count > 1)
         {
-            int distanceBefore = modelList.differentScrollDistanceForEachModel[Scroll.count - 2];
+            float distanceBefore = modelList.differentScrollDistanceForEachModel[Scroll.count - 2];
 
             foreach (GameObject model in modelList.ModelsToScroll)
             {

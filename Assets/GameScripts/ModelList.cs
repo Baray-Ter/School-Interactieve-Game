@@ -10,9 +10,7 @@ public class ModelList : MonoBehaviour
     [Header(" !! UYARI !! ")]
     [Header(" Array Buyuklugu (toplam model sayisi - 1) olmak zorunda yoksa fazla ileriye gider")]
     [Tooltip(" Eger sag gitsin istiyorsaniz - ile eger sola gitsin istiyorsaniz + ile baslamali sayilar")]
-    public int[] differentScrollDistanceForEachModel;
-
-    public float movementAmount = 0;
+    public float[] differentScrollDistanceForEachModel;
 
     private void Start()
     {

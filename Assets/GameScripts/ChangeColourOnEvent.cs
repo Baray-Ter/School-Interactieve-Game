@@ -5,7 +5,10 @@ using UnityEngine;
 public class ChangeColourOnEvent : MonoBehaviour
 {
     public Color newColour;
+    public float newColourAlpha;
+
     private Color oldColour;
+    private float oldColourAlpha;
 
     private GameObject _defaultGameObject;
 
@@ -27,7 +30,5 @@ public class ChangeColourOnEvent : MonoBehaviour
         oldColour = data.GetComponent<MeshRenderer>().material.color;
 
         data.GetComponent<MeshRenderer>().material.color = newColour;
-
-        //Debug.Log("Static event triggered with data: " + data);
     }
 }

@@ -39,14 +39,18 @@ public class DetectParts : MonoBehaviour
                 if (hit.collider.gameObject.GetComponentInParent<PartInformation>() != null)
                 {
                     information = hit.collider.gameObject.GetComponentInParent<PartInformation>().Information;
+
+                    EventPublisher<GameObject> gameObjectPublisher = new EventPublisher<GameObject>();
+
+                    // Raise the event with some data
+                    gameObjectPublisher.RaiseEvent(hit.collider.gameObject);
+                    //eventPublisher.RaiseEvent(storeText.referenceToText);
                 }
-
-                //OnClicked?.Invoke(storeText.referenceToText);
-
-                EventPublisher<GameObject> gameObjectPublisher = new EventPublisher<GameObject>();
-                // Raise the event with some data
-                gameObjectPublisher.RaiseEvent(hit.collider.gameObject);
-                //eventPublisher.RaiseEvent(storeText.referenceToText);
+                else
+                {
+                    Debug.LogWarning("No Information Detected");
+                    return;
+                }
 
                 EventPublisher<TextAsset> informationPublisher = new EventPublisher<TextAsset>();
                 informationPublisher.RaiseEvent(information);

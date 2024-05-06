@@ -1,0 +1,3 @@
+RESERVE FOOD GRANULES 
+
+Yemek granullerinin reserve edilmesi. 
